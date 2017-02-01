@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/zsheill7/SwiftTutorial/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[First-Project_settings1.png]
-[First-Project_settings2.png]
-[First-Project_settings3.png]
-[First-Project_settings4.png]
-[First-Project_settings5.png]
-[First-Project_settings6.png]
+![First-Project_settings1.png](/images/First-Project_settings1.png)
+![First-Project_settings2.png](/images/First-Project_settings2.png)
+![First-Project_settings3.png](/images/First-Project_settings3.png)
+![First-Project_settings4.png](/images/First-Project_settings4.png)
+![First-Project_settings5.png](/images/First-Project_settings5.png)
+![First-Project_settings6.png](/images/First-Project_settings6.png)
 
 
 ### Markdown
