@@ -4,13 +4,21 @@ You can use the [editor on GitHub](https://github.com/zsheill7/SwiftTutorial/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![First-Project_settings1.png](/images/First-Project_settings1.png)
-![First-Project_settings2.png](/images/First-Project_settings2.png)
-![First-Project_settings3.png](/images/First-Project_settings3.png)
-![First-Project_settings4.png](/images/First-Project_settings4.png)
-![First-Project_settings5.png](/images/First-Project_settings5.png)
-![First-Project_settings6.png](/images/First-Project_settings6.png)
-
+![First-Project_settings1.png](/images/1.png)
+![Public repositories](/images/2.png)
+![Tailor experience](/images/3.png)
+![learn git](/images/4.png)
+![@new repository](/images/5.png)
+![<>Code](/images/6.png)
+![@index.html](/images/7.png)
+![created html structure](/images/8.png)
+![commit new file](/images/9.png)
+![<>Code](/images/10.png)
+![settings](/images/11.png)
+![Github pages](/images/12.png)
+![Your site is published](/images/13.png)
+![full index.html](/images/14.png)
+![commit changes](/images/15.png)
 
 ### Markdown
 
