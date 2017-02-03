@@ -1,8 +1,6 @@
 ## Build a website with Github Pages (no experience required)
 
-You can use the [editor on GitHub](https://github.com/zsheill7/Github-Setup-Tutorial/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ever wanted to learn how to quickly build a website you can view from anywhere in the world?  Follow this tutorial and you'll be well on your way to creating your own websites in HTML.  
 
 What is Github? 
  GitHub is now the largest online storage space of collaborative works that exists in the world.  It lets you and others work together on projects from anywhere.
@@ -18,30 +16,55 @@ What is Github?
 ![First-Project_settings1.png](/images/1.png)
 ![Public repositories](/images/2.png)
 
+
+
 Later you may want to keep your code private, but for learning purposes, having unlimited public repositories will work fine. 
+
+
 
 ![Tailor experience](/images/3.png)
 
+
+
 Next, click "Start a Project"
+
+
 
 ![learn git](/images/4.png)
 
+
+
 When creating our new repository, make sure "initialize this repository with a README.md" is checked.  This will save us some time in setting up. 
+
+
 
 ![@new repository](/images/5.png)
 
+
+
 Below is the main page for the code in your new repository.  Click "Create new file" to create the main page of your website.
+
+
 
 ![<>Code](/images/6.png)
 
+
+
 Name this file "index.html".  Github Pages recognized "index.html" as the file to display when the link to your website is clicked.  The ".html" extension indicates the coding language the file is written in, HTML. 
+
+
 
 ![@index.html](/images/7.png)
 
 
+
 The code below sets up a basic HTML webpage.
 
+
+
 ![created html structure](/images/8.png)
+
+
 
 ```markdown
 The <!DOCTYPE html> declaration defines this document to be HTML5
@@ -51,33 +74,62 @@ The <title> element specifies a title for the document
 The <body> element contains the visible page content.  This can include paragraphs and headers.
 ```
 
+
+
 Next, enter a commit message and click "Commit new file" to save your changes to the file.
+
+
 
 ![commit new file](/images/9.png)
 
+
+
 As seen below, your new file has been created.  Next, click "Settings" to setup Github Pages. 
 
+
+
 ![<>Code](/images/10.png)
+
+
 ![settings](/images/11.png)
+
+
 
 Next, scroll down to the "Github Pages" section to setup your website. 
 
+
+
 ![Github pages](/images/12.png)
+
+
 
 Click the link below to visit your new website. You'll notice that your new website is blank.  We can easily fix this by including a few elements in the "body" section of our "index.html"
 
+
+
 ![Your site is published](/images/13.png)
+
+
 
 Include a few elements, as seen below.
 
+
+
 ![full index.html](/images/14.png)
 
+
+
 Don't forget to commit your changes! 
+
+
 
 ![commit changes](/images/15.png)
 
 
-### Markdown
+![finished](mywebsite.png)
+
+
+<!--### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -107,4 +159,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.-->
