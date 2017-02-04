@@ -42,6 +42,8 @@ When creating our new repository, make sure "initialize this repository with a R
 
 
 
+Congrats!  You have created your first Github repository.  
+
 Below is the main page for the code in your new repository.  Click "Create new file" to create the main page of your website.
 
 
@@ -125,8 +127,13 @@ Don't forget to commit your changes!
 
 ![commit changes](/images/15.png)
 
+Hooray!  You have now set up your first website!
+
 
 ![finished](mywebsite.png)
+
+
+Next, we'll be talking about uploading images to your website.  Be sure to prepare your favorite memes to display. 
 
 
 <!--### Markdown
