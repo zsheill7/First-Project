@@ -9,6 +9,10 @@ What is Github?
  
  GitHub Pages is designed to host your personal, organization, or project pages directly from a GitHub repository. This means that you can easily create websites for free by uploading files into your Github account. 
  
+ What is HTML? 
+ 
+ HTML stands for Hypertext Markup Language, which is a scripting language that tells a hosting service (in this case Github Pages) what fonts, colors, and graphics your website will include. 
+ 
  In this tutorial, we'll be learning how to use Github Pages and HTML to create a basic website.
  
  ## Step 1: Create a Github account
