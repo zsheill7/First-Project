@@ -147,9 +147,12 @@ Hooray!  You have now set up your first website!
 ![finished](mywebsite.png)
 
 
-Next, we'll be talking about uploading images to your website.  Be sure to prepare your favorite memes to display. 
+Next, we'll be talking about uploading images to your website.  Be sure to prepare your favorite pictures to display. 
+
+See you next time :)
 <br />
-![finished](htmlmeme.jpg)
+
+Check out more repositories at github.com/zsheill7
 
 <!--### Markdown
 
