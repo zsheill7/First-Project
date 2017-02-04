@@ -14,8 +14,11 @@ What is Github?
  ## Step 1: Create a Github account
 
 ![First-Project_settings1.png](/images/1.png)
+<br />
+<br />
 ![Public repositories](/images/2.png)
-
+<br />
+<br />
 
 
 Later you may want to keep your code private, but for learning purposes, having unlimited public repositories will work fine. 
@@ -23,7 +26,8 @@ Later you may want to keep your code private, but for learning purposes, having 
 
 
 ![Tailor experience](/images/3.png)
-
+<br />
+<br />
 
 
 Next, click "Start a Project"
@@ -31,7 +35,8 @@ Next, click "Start a Project"
 
 
 ![learn git](/images/4.png)
-
+<br />
+<br />
 
 
 When creating our new repository, make sure "initialize this repository with a README.md" is checked.  This will save us some time in setting up. 
@@ -39,7 +44,8 @@ When creating our new repository, make sure "initialize this repository with a R
 
 
 ![@new repository](/images/5.png)
-
+<br />
+<br />
 
 
 Congrats!  You have created your first Github repository.  
@@ -49,7 +55,8 @@ Below is the main page for the code in your new repository.  Click "Create new f
 
 
 ![<>Code](/images/6.png)
-
+<br />
+<br />
 
 
 Name this file "index.html".  Github Pages recognized "index.html" as the file to display when the link to your website is clicked.  The ".html" extension indicates the coding language the file is written in, HTML. 
@@ -61,7 +68,8 @@ Name this file "index.html".  Github Pages recognized "index.html" as the file t
 
 
 The code below sets up a basic HTML webpage.
-
+<br />
+<br />
 
 
 ![created html structure](/images/8.png)
@@ -83,7 +91,8 @@ Next, enter a commit message and click "Commit new file" to save your changes to
 
 
 ![commit new file](/images/9.png)
-
+<br />
+<br />
 
 
 As seen below, your new file has been created.  Next, click "Settings" to setup Github Pages. 
@@ -91,36 +100,37 @@ As seen below, your new file has been created.  Next, click "Settings" to setup 
 
 
 ![<>Code](/images/10.png)
-
+<br />
+<br />
 
 ![settings](/images/11.png)
-
-
+<br />
+<br />
 
 Next, scroll down to the "Github Pages" section to setup your website. 
 
 
 
 ![Github pages](/images/12.png)
-
-
+<br />
+<br />
 
 Click the link below to visit your new website. You'll notice that your new website is blank.  We can easily fix this by including a few elements in the "body" section of our "index.html"
 
 
 
 ![Your site is published](/images/13.png)
+<br />
 
-
-
+<br />
 Include a few elements, as seen below.
 
 
 
 ![full index.html](/images/14.png)
 
-
-
+<br />
+<br />
 Don't forget to commit your changes! 
 
 
@@ -128,13 +138,14 @@ Don't forget to commit your changes!
 ![commit changes](/images/15.png)
 
 Hooray!  You have now set up your first website!
-
-
+<br />
+<br />
 ![finished](mywebsite.png)
 
 
 Next, we'll be talking about uploading images to your website.  Be sure to prepare your favorite memes to display. 
-
+<br />
+![finished](htmlmeme.jpg)
 
 <!--### Markdown
 
