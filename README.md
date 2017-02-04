@@ -76,7 +76,7 @@ The code below sets up a basic HTML webpage.
 <br>
 
 
-![created html structure](/8.png)
+![created html structure](8.png)
 
 
 
