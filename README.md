@@ -132,6 +132,8 @@ Include a few elements, as seen below.
 
 ![full index.html](14.png)
 
+h1 stands for "header 1" and will give you a large, bold header for a webpage title.
+p stands for "paragraph"- you can use this to include blocks of text in your website. 
 <br>
 <br>
 Don't forget to commit your changes! 
