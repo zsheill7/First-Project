@@ -43,7 +43,7 @@ Next, click "Start a Project"
 <br>
 
 
-When creating our new repository, make sure "initialize this repository with a README.md" is checked.  This will save us some time in setting up. 
+When creating your new repository, make sure "initialize this repository with a README.md" is checked.  This will save you some time in setting up. 
 
 
 
@@ -63,7 +63,7 @@ Below is the main page for the code in your new repository.  Click "Create new f
 <br>
 
 
-Name this file "index.html".  Github Pages recognized "index.html" as the file to display when the link to your website is clicked.  The ".html" extension indicates the coding language the file is written in, HTML. 
+Name this file "index.html".  Github Pages recognizes "index.html" as the file to display when the link to your website is clicked.  The ".html" extension indicates the language the file is written in, HTML. 
 
 
 
@@ -99,7 +99,7 @@ Next, enter a commit message and click "Commit new file" to save your changes to
 <br>
 
 
-As seen below, your new file has been created.  Next, click "Settings" to setup Github Pages. 
+As seen below, your new file has been created.  Next, click "Settings" to set up Github Pages. 
 
 
 
