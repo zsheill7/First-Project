@@ -3,7 +3,7 @@
 Ever wanted to learn how to quickly build a website you can view from anywhere in the world?  Follow this tutorial and you'll be well on your way to creating your own websites in HTML.  
 
 What is Github? 
- GitHub is now the largest online storage space of collaborative works that exists in the world.  It lets you and others work together on projects from anywhere.
+ GitHub is an online storage space of coding projects.  It lets you and others work together on projects from anywhere.  Think of it like Google Docs, with a Github repository being equivalent to a folder in Google Docs, and individual files as files in Github.  They also share the feature of collaboration. 
  
  What is Github Pages?
  
