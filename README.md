@@ -17,10 +17,10 @@ What is Github? <br><br>
  
  ## Step 1: Create a Github account
 
-![First-Project_settings1.png](/images/1.png)
+![First-Project_settings1.png](1.png)
 <br>
 <br>
-![Public repositories](/images/2.png)
+![Public repositories](2.png)
 <br>
 <br>
 
@@ -29,7 +29,7 @@ Later you may want to keep your code private, but for learning purposes, having 
 
 
 
-![Tailor experience](/images/3.png)
+![Tailor experience](3.png)
 <br>
 <br>
 
@@ -38,7 +38,7 @@ Next, click "Start a Project"
 
 
 
-![learn git](/images/4.png)
+![learn git](4.png)
 <br>
 <br>
 
@@ -47,7 +47,7 @@ When creating our new repository, make sure "initialize this repository with a R
 
 
 
-![@new repository](/images/5.png)
+![@new repository](5.png)
 <br>
 <br>
 
@@ -58,7 +58,7 @@ Below is the main page for the code in your new repository.  Click "Create new f
 
 
 
-![<>Code](/images/6.png)
+![<>Code](6.png)
 <br>
 <br>
 
@@ -67,7 +67,7 @@ Name this file "index.html".  Github Pages recognized "index.html" as the file t
 
 
 
-![@index.html](/images/7.png)
+![@index.html](7.png)
 
 
 
@@ -76,7 +76,7 @@ The code below sets up a basic HTML webpage.
 <br>
 
 
-![created html structure](/images/8.png)
+![created html structure](/8.png)
 
 
 
@@ -94,7 +94,7 @@ Next, enter a commit message and click "Commit new file" to save your changes to
 
 
 
-![commit new file](/images/9.png)
+![commit new file](9.png)
 <br>
 <br>
 
@@ -103,11 +103,11 @@ As seen below, your new file has been created.  Next, click "Settings" to setup 
 
 
 
-![<>Code](/images/10.png)
+![<>Code](10.png)
 <br>
 <br>
 
-![settings](/images/11.png)
+![settings](11.png)
 <br>
 <br>
 
@@ -115,7 +115,7 @@ Next, scroll down to the "Github Pages" section to setup your website.
 
 
 
-![Github pages](/images/12.png)
+![Github pages](12.png)
 <br>
 <br>
 
@@ -123,14 +123,14 @@ Click the link below to visit your new website. You'll notice that your new webs
 
 
 
-![Your site is published](/images/13.png)
+![Your site is published](13.png)
 <br>
 <br>
 Include a few elements, as seen below.
 
 
 
-![full index.html](/images/14.png)
+![full index.html](14.png)
 
 <br>
 <br>
@@ -138,7 +138,7 @@ Don't forget to commit your changes!
 
 
 
-![commit changes](/images/15.png)
+![commit changes](15.png)
 
 Hooray!  You have now set up your first website!
 <br>
